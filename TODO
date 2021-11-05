@@ -1,0 +1,6 @@
+Write tests for:
+- BTree::from_iter
+- BTree::search
+- Desired panics
+- Equality testing?
+- String concatenation
